@@ -4,6 +4,6 @@ Este proyecto corresponde al primer trabajo de la asignatura Almacenamiento y re
 
 # Integrantes
 
-Oscar Javier Contreras Buitrago
-Carlos Andrés Castro Marín
+Oscar Javier Contreras Buitrago -
+Carlos Andrés Castro Marín -
 David Mejía Estrada
